@@ -3,9 +3,9 @@
 
 මුලින්මම ඔබ කැමති Font එක Download කරලා install කරන්න. පුද්ගලිකව මම වඩාත් කැමතියි Abhaya Libre කියන font එකට. ටිකක් ලොකු පැහැදිලිව වෙන් වෙන්වව පේන අකුරු වලට කැමති නම් Noto Font එක ගැලපේවි.
 
-[Abhaya Libre](https://fonts.google.com/specimen/Abhaya+Libre)
-[Noto San Sinhala](https://fonts.google.com/noto/specimen/Noto+Sans+Sinhala)
-[Noto Serif Sinhala](https://fonts.google.com/noto/specimen/Noto+Serif+Sinhala)
+- [Abhaya Libre](https://fonts.google.com/specimen/Abhaya+Libre)
+- [Noto San Sinhala](https://fonts.google.com/noto/specimen/Noto+Sans+Sinhala)
+- [Noto Serif Sinhala](https://fonts.google.com/noto/specimen/Noto+Serif+Sinhala)
 
 දැනට පරිගණකයේ සිංහල අකුරු තියෙනන Fonts List එක බලාගන්නන ඕන නම් පහත command එක ගහල බලන්න.
 `fc-list :lang=si`
