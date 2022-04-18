@@ -1,3 +1,17 @@
+# සිංහල Keyboard එක සකස් කිරීම
+
+Settings යෙදුම විවෘත කරගන්න
+![image](https://user-images.githubusercontent.com/2894127/163845431-5bc83a9e-ef9e-45da-9b7c-b77d3f8ec82b.png)
+
+
+![image](https://user-images.githubusercontent.com/2894127/163844372-ae80b3e6-ebec-45e8-9289-df7d2d3e8051.png)
+
+මෙහි Input sources කොටසෙ දැනටම සිංහල නැති නම්, පහල ඇති + සලකුණ තෝරා එතනින් Sinhala (Wijesekara(m17n) යන්න තෝරන්න. 
+
+![image](https://user-images.githubusercontent.com/2894127/163844643-2eb9f4e3-a22a-439c-afc2-b3cc138c08b3.png)
+
+සිංහල සහ ඉංග්‍රිසි keyboard දෙක අතර මාරු වීමට Shift සහ Super Key(WinKey) සමඟ Space එකවර ඔබන්න. 
+
 # කැමති සිංහල අකුරක් ස්ථාපනය කිරීම
 සාමාන්යෙන් Ubuntu එකත් එක්කක Default Sinhala font එක විදියට එන්නේනේ  LKLug කියන සිංහල Font එක. මේ අකුරට අකමැති අයට තමං කැමති Font එකක් ස්ථාපනය කරගන්නේ මෙහෙමයි.
 
