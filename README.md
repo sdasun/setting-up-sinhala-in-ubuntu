@@ -26,7 +26,7 @@ Settings යෙදුම විවෘත කරගන්න
 
 `lklug.ttf file` එකත් ඒ අතර තියේවි. ඒක තියෙන path එක බලාගෙන ඒ font එක remove කරන්නන පුළුවන්. නැතිනම් වෙනත් folder එකකට backup කරගන්න.
 
-`/etc/fonts/conf.d/65-sinhala.conf` කියලා අලුතින් file එකක් හදලා ඒකට  පහත තියෙන content එක කොපි කරන්න.
+`/etc/fonts/conf.d/65-sinhala.conf` කියලා අලුතින් file එකක් හදලා ඒකට  පහත තියෙන content එක කොපි කරන්න. ඔබ තේරුවේ `Abhaya Libre` නෙමෙයි නම් ඒක `Abhaya Libre` තියෙන තැන්වලට දාන්න.
 ```
 <?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
