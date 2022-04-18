@@ -28,7 +28,7 @@ Settings යෙදුම විවෘත කරගන්න
 
 `/etc/fonts/conf.d/65-sinhala.conf` කියලා අලුතින් file එකක් හදලා ඒකට  පහත තියෙන content එක කොපි කරන්න.
 ```
-?xml version="1.0"?>
+<?xml version="1.0"?>
 <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
 <fontconfig>
   <its:rules xmlns:its="http://www.w3.org/2005/11/its" version="1.0">
